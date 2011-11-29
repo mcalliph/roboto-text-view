@@ -1,0 +1,10 @@
+.idea/
+out/
+gen/
+bin/
+local.properties
+*.DS_Store
+.classpath
+.project
+*.iml
+.settings/
